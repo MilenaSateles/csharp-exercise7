@@ -1,0 +1,15 @@
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\bin\Debug\net6.0\DivisaoImpossivel.exe
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\bin\Debug\net6.0\DivisaoImpossivel.deps.json
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\bin\Debug\net6.0\DivisaoImpossivel.runtimeconfig.json
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\bin\Debug\net6.0\DivisaoImpossivel.dll
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\bin\Debug\net6.0\DivisaoImpossivel.pdb
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\obj\Debug\net6.0\DivisaoImpossivel.csproj.AssemblyReference.cache
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\obj\Debug\net6.0\DivisaoImpossivel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\obj\Debug\net6.0\DivisaoImpossivel.AssemblyInfoInputs.cache
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\obj\Debug\net6.0\DivisaoImpossivel.AssemblyInfo.cs
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\obj\Debug\net6.0\DivisaoImpossivel.csproj.CoreCompileInputs.cache
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\obj\Debug\net6.0\DivisaoImpossivel.dll
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\obj\Debug\net6.0\refint\DivisaoImpossivel.dll
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\obj\Debug\net6.0\DivisaoImpossivel.pdb
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\obj\Debug\net6.0\DivisaoImpossivel.genruntimeconfig.cache
+C:\Study\DivisaoImpossivel\DivisaoImpossivel\obj\Debug\net6.0\ref\DivisaoImpossivel.dll
